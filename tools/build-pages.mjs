@@ -91,7 +91,7 @@ const built = { posts: [], projects: [] };
 image('home', {
   kind: 'home',
   kicker: 'Portfolio',
-  sub: 'Senior Data Scientist (AI) · Manulife',
+  sub: 'Data Scientist (AI) · Manulife',
   chips: [chip('$15M+', 'value delivered with AI'), chip('2,000+', 'agents on M-Smart'), chip('2×', 'Databricks certified')].join('|'),
 });
 image('blog', {

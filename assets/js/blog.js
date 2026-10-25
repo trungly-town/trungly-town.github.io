@@ -373,7 +373,7 @@
           <span class="byline-avatar lg"><img src="${ROOT}assets/img/avatar.png" width="308" height="308" alt=""></span>
           <div>
             <p class="author-name">Ly Minh Trung <span class="muted">(Philip)</span></p>
-            <p class="author-bio">Senior Data Scientist (AI) at Manulife — I build Agentic RAG assistants and measure what GenAI is really worth.</p>
+            <p class="author-bio">Data Scientist (AI) at Manulife — I build Agentic RAG assistants and measure what GenAI is really worth.</p>
             <div class="author-links">
               <a class="icon-btn" href="https://www.linkedin.com/in/trung-minh-ly-46b17220b/" target="_blank" rel="noopener" aria-label="LinkedIn">${icon('linkedin')}</a>
               <a class="icon-btn" href="https://github.com/trungly-town" target="_blank" rel="noopener" aria-label="GitHub">${icon('github')}</a>

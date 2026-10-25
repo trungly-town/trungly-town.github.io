@@ -1,6 +1,6 @@
 # trungly-town.github.io
 
-Personal landing page of **Ly Minh Trung** — Senior Data Scientist (AI) in Manulife's AI & Enterprise Data Office.
+Personal landing page of **Ly Minh Trung** — Data Scientist (AI) in Manulife's AI & Enterprise Data Office.
 
 **Live:** https://trungly-town.github.io
 
